@@ -38,6 +38,10 @@ section {
   font-weight: bolder;
   margin-right: 5px;
 }
+#read:hover {
+  background-color: #fff;
+  color: #111;
+}
 h1 {
   width: 50%;
   font-size: 60px;
