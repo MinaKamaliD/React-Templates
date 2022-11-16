@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.parallax {
+  background-image: url("../../public/img/dark.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p {
+  font-size: 50px;
+}
