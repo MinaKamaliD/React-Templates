@@ -12,7 +12,7 @@ function Section2() {
             feugiat, eu tincidunt mauris aliquam. Duis commodo vitae ligula et
             interdum.
           </p>
-          <button id="btn">READ MORE</button>
+          <button id="btn">SEE IT IN ACTION</button>
         </div>
         <div className="img">
           <img src="../img/3.png" alt="" srcset="" />

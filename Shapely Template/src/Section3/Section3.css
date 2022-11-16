@@ -48,12 +48,15 @@ img {
   background-color: RGB(93, 71, 215);
   border: 2px solid RGB(93, 71, 215);
   color: #fff;
-  padding: 19px 68px;
+  padding: 19px 2px;
   font-family: "Raleway", sans-serif;
   font-weight: bolder;
+  font-size: 12px;
   margin-right: 5px;
   transition: all 0.3s linear;
   margin-top: 30px;
+  word-spacing: 4px;
+  letter-spacing: 1px;
 }
 #btn:hover {
   background-color: rgb(70, 47, 201);
