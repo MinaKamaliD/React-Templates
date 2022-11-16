@@ -8,12 +8,11 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: greenyellow;
 }
 
 section {
-  background-color: yellow;
   width: 100%;
+  height: 70vh;
   background-image: url("../../public/img/wave.jpg");
   background-size: cover;
   background-position-y: bottom;
@@ -60,6 +59,10 @@ h1 {
 p {
   font-weight: 600;
   margin-top: 30px;
+  width: 68%;
+  text-align: center;
+  line-height: 28px;
+  font-weight: 500;
 }
 .buttons {
   display: flex;

@@ -12,7 +12,7 @@ function Section1() {
           tincidunt leo ornare quis..
         </p>
         <div className="buttons">
-          <button id="read">READ MORE</button>
+          <button id="read">MORE INFO</button>
         </div>
       </section>
     </div>
