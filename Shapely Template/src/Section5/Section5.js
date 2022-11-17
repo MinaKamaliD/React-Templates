@@ -11,6 +11,7 @@ function Section5() {
           accumsan non efficitur id, pretium quis ante
         </p>
         <button>DOWNLOAD NOW</button>
+        <img src="../img/jungle.jpg" alt="" srcset="" />
       </div>
     </div>
   );
