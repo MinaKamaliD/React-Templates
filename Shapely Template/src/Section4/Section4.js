@@ -3,7 +3,7 @@ import "./Section4.css";
 function Section1() {
   return (
     <div>
-      <section>
+      <section className="section3">
         <h1>Small Parallax Section</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus

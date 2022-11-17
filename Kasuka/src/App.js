@@ -4,7 +4,7 @@ import Parallax from "./Parallax/Parallax";
 function App() {
   return (
     <div>
-      <Parallax></Parallax>;
+      <Parallax></Parallax>
     </div>
   );
 }
